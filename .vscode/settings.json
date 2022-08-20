@@ -43,5 +43,8 @@
         "ACUCOBOL"
     ],
     "editor.tabCompletion": "on",
-    "diffEditor.codeLens": true
+    "diffEditor.codeLens": true,
+    "cSpell.words": [
+        "redzone"
+    ]
 }
